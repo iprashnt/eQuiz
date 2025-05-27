@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # Screenshots
 
-<img src="https://media1.tenor.com/m/ofDuH0hvGh8AAAAd/so-what-do-you-think.gif" width="200" title="Ray Romano saying What do you think?" alt="Ray Romano saying What do you think?"/>
+<img src="https://github.com/user-attachments/assets/e6d82d0e-3a18-4155-8c75-28b87d53fa09" width="60%" title="screenshot" alt="screenshot"/>
 
 
 
